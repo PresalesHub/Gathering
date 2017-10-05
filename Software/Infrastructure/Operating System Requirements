@@ -1,0 +1,7 @@
+Validate application requirements and compatibility or vendor certification/support.
+
+Also validate hardware compatibility or vendor certification/support. 
+Consider required devices such as HBAs(host bus adapters), or even printers/scanners that may need a driver for that Operating System.
+
+Does your customer need to virtualize this operating system?
+Does your customer need to install this operating system in a supported private cloud or in a public cloud from a service provider?
